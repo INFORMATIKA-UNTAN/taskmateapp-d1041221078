@@ -182,11 +182,11 @@ const styles = StyleSheet.create({
         fontWeight: '700',
     },
     todoBadge: {
-        backgroundColor: '#f97316', // Oranye
+        backgroundColor: '#f97316', 
         marginLeft: 6,
     },
     doneBadge: {
-        backgroundColor: '#6b7280', // Abu-abu
+        backgroundColor: '#6b7280', 
         marginLeft: 6,
     },
     taskTitle: {
